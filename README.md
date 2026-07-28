@@ -1,37 +1,45 @@
---> <div align="center"> <!-- Banner opcional: 1280x400px. Suba a imagem em /assets do repo. --> <!-- <img src="./assets/banner.png" alt="banner" width="100%" /> -->
-{{ Olá! Me chamo Bruno Terra! }}
+<div align="center"> <!-- Banner opcional: 1280x400px. Suba a imagem em /assets do repo e descomente. --> <!-- <img src="./assets/banner.png" alt="banner" width="100%" /> -->
+Olá! Me chamo Bruno Terra 👋
 
-{{ Estudante do terceiro semestre de Engenharia de Software }}
+Estudante do 3º semestre de Engenharia de Software · Campinas, SP
 
-<p> <a href="{{ https://linkedin.com/in/seu-perfil }}"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:{{ seu@email.com }}"> <img src="https://img.shields.io/badge/Email-{{ FF4D14 }}?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="{{ https://seusite.com }}"> <img src="https://img.shields.io/badge/Site-111111?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> </p> </div>
+<p> <a href="https://www.linkedin.com/in/bruno-terra-silverio-6147a2291"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:brunosilverio112005@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </p> </div>
 Sobre
 text
-Localização   : {{ Campinas - São Paulo - Brasil }}
+Localização : Campinas — São Paulo, Brasil
+Formação    : Engenharia de Software, 3º semestre
+Estudando   : Java
+Curiosidade : Toco piano desde os oito anos
 
-Estudando     : {{Java }}
-Curiosidade   : {{ Toco piano desde que tenho oito anos! }}
+Estou construindo minha base em desenvolvimento de software e uso este perfil para reunir os projetos que faço na faculdade e por conta própria. No momento meu foco é Java e fundamentos de programação orientada a objetos.
 
-
-
+<!-- Troque o parágrafo acima pelo seu texto quando quiser. Vale citar: que tipo de projeto te interessa, se procura estágio, e o que você quer aprender nos próximos meses. -->
 Stack
-<!-- Remova o que não usa, acrescente o que faltar. Catálogo de logos: https://simpleicons.org Gerador de badge: https://shields.io/badges -->
 
 Linguagens
 
-![{{ Python }}](https://img.shields.io/badge/{{ C }}-{{ cor }}?style=flat-square&logo={{ logo }}&logoColor=white) ![{{ JavaScript }}](https://img.shields.io/badge/{{ Html }}-{{ cor }}?style=flat-square&logo={{ logo }}&logoColor=white) ![{{ CSS }}](https://img.shields.io/badge/{{ SQL }}-{{ cor }}?style=flat-square&logo={{ logo }}&logoColor=white)
+Mostrar Imagem Mostrar Imagem Mostrar Imagem Mostrar Imagem Mostrar Imagem Mostrar Imagem Mostrar Imagem
+
+Ferramentas
+
+Mostrar Imagem Mostrar Imagem Mostrar Imagem Mostrar Imagem
+
+<!-- Para adicionar mais: https://simpleicons.org tem o nome exato do logo e a cor oficial de cada tecnologia. -->
+Projetos
+Projeto	O que é	Status
+[{{ nome }}]({{ link }})	{{ descrição em uma linha }}	{{ status }}
 
 
-
-<!-- Alternativa mais visual aos cards de repositório: <a href="https://github.com/{{ usuario }}/{{ repo }}"> <img src="https://github-readme-stats.vercel.app/api/pin/?username={{ usuario }}&repo={{ repo }}&theme=dark&hide_border=true" /> </a> -->
 Estatísticas
-<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username={{ usuario }}&show_icons=true&hide_border=true&theme=dark" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username={{ usuario }}&layout=compact&hide_border=true&theme=dark" /> <img src="https://streak-stats.demolab.com?user={{ usuario }}&hide_border=true&theme=dark" height="165" /> </div>
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username={{ SEU_USUARIO_GITHUB }}&show_icons=true&hide_border=true&theme=dark" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username={{ SEU_USUARIO_GITHUB }}&layout=compact&hide_border=true&theme=dark" /> <img src="https://streak-stats.demolab.com?user={{ SEU_USUARIO_GITHUB }}&hide_border=true&theme=dark" height="165" /> </div>
 Fora do código
-<!-- Essa seção é o que separa um perfil genérico de um perfil seu. Hobbies, coleções, esportes, música, o que for. -->
-{{ Gosto bastante de piano }}
-{{Sempre estou jogando algo, geralmente RPGs}}
-{{ Gosto bastante de histórias em quadrinhos}}
+🎹 Toco piano desde os oito anos
+🎲 Sempre jogando alguma coisa, geralmente RPG
+📚 Leitor de histórias em quadrinhos
 <div align="center">
 
+<sub>Aberto a conversas sobre projetos, estudos e oportunidades.</sub>
 
+<br /><br />
 
-<br /> <img src="https://komarev.com/ghpvc/?username={{ usuario }}&style=flat-square&color=555555" /> </div>
+<img src="https://komarev.com/ghpvc/?username={{ SEU_USUARIO_GITHUB }}&style=flat-square&color=555555" /> </div>
