@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá! Eu sou  Bruno Terra!
 
 
 
