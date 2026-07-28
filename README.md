@@ -3,35 +3,26 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/phzmedeiros/phzmedeiros/assets/81303691/1561b3d8-76c0-463a-aaf6-ec8ad096d7ff">
 <br>
 
-- 👨🏽‍🚀 I'm a **Brazilian** developer and I'm **19** years old
+- 👨🏽‍🚀 I'm a **Brazilian** developer and I'm **20** years old
 
 - 🌱 I’m currently studying **Software Engineering** at PUCC
   
 - 🌍 Languages **Portuguese - Fluent/Native | English - Advanced**
 
-- ⚡ Fun fact **I'm fascinated by science!**
+- ⚡ Fun fact **I study piano since i was 8!**
     
-- 💬 Ask me about **Math, Physics, Anything!**
+- 💬 Ask me about **Music, Games, sci-fi books, Anything!**
 
-- 📫 How to reach me **pedrohenriquemreis@gmail.com**
+- 📫 How to reach me **brunosilverio112005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://x.com/PhzMedeiros?t=oXBGAxpmXhw26aI9PKbGlw&s=09">
-    <img src="https://skillicons.dev/icons?i=twitter" />
+
   </a>
-  <a href="https://www.linkedin.com/in/phzmedeiros?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <a href="https://www.linkedin.com/in/bruno-terra-silverio-6147a2291/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
-  <a href="https://www.instagram.com/phzmedeiros?igsh=NGkyODUybDZla3Ez">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="https://dev.to/phzmedeiros">
-    <img src="https://skillicons.dev/icons?i=devto" />
-  </a>
+
 </p>
 
 <br>
