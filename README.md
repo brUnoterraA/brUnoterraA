@@ -26,9 +26,7 @@
 </p>
 
 <br>
-<h3 align="right">Languages and Tools:</h3>
-<img align="left" alt="Coding" width="380" src="https://github.com/phzmedeiros/phzmedeiros/assets/81303691/06ac67eb-0442-46b6-8447-5522549f8ccd">
-<p align="right">
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,html,css,js,arduino,git" />
   </a>
