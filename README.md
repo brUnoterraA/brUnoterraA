@@ -27,9 +27,7 @@
 
 <br>
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,html,css,js,arduino,git" />
-  </a>
+
 </p>
 <p align="right">
   <a href="https://skillicons.dev">
