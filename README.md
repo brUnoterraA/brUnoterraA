@@ -1,45 +1,51 @@
-<div align="center"> <!-- Banner opcional: 1280x400px. Suba a imagem em /assets do repo e descomente. --> <!-- <img src="./assets/banner.png" alt="banner" width="100%" /> -->
-Olá! Me chamo Bruno Terra 👋
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&pause=1000&color=F7F7F7&random=false&width=430&lines=Hi+%F0%9F%91%8B%2C+I'm+Pedro+Medeiros;Ol%C3%A1+%F0%9F%91%8B%2C++sou+Pedro+Medeiros;Hola+%F0%9F%91%8B%2C+soy+Pedro+Medeiros;Salut+%F0%9F%91%8B%2C+je+m'appelle+Pedro+Medeiros;Ciao+%F0%9F%91%8B%2C+sono+Pedro+Medeiros;%E5%97%A8%F0%9F%91%8B%EF%BC%8C%E6%88%91%E6%98%AF%E4%BD%A9%E5%BE%B7%E7%BD%97%C2%B7%E6%A2%85%E4%BB%A3%E7%BD%97%E6%96%AF;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82+%F0%9F%91%8B%2C+%D1%8F+%D0%9F%D0%B5%D0%B4%D1%80%D0%BE+%D0%9C%D0%B5%D0%B4%D0%B5%D0%B9%D1%80%D0%BE%D1%81.;Hallo+%F0%9F%91%8B%2C+ich+bin+Pedro+Medeiros" alt="Typing SVG" /></a></h1>
+<h3 align="center">A brazilian Software Engineer</h3>
+<img align="right" alt="Coding" width="400" src="https://github.com/phzmedeiros/phzmedeiros/assets/81303691/1561b3d8-76c0-463a-aaf6-ec8ad096d7ff">
+<br>
 
-Estudante do 3º semestre de Engenharia de Software · Campinas, SP
+- 👨🏽‍🚀 I'm a **Brazilian** developer and I'm **19** years old
 
-<p> <a href="https://www.linkedin.com/in/bruno-terra-silverio-6147a2291"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:brunosilverio112005@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </p> </div>
-Sobre
-text
-Localização : Campinas — São Paulo, Brasil
-Formação    : Engenharia de Software, 3º semestre
-Estudando   : Java
-Curiosidade : Toco piano desde os oito anos
+- 🌱 I’m currently studying **Software Engineering** at PUCC
+  
+- 🌍 Languages **Portuguese - Fluent/Native | English - Advanced**
 
-Estou construindo minha base em desenvolvimento de software e uso este perfil para reunir os projetos que faço na faculdade e por conta própria. No momento meu foco é Java e fundamentos de programação orientada a objetos.
+- ⚡ Fun fact **I'm fascinated by science!**
+    
+- 💬 Ask me about **Math, Physics, Anything!**
 
-<!-- Troque o parágrafo acima pelo seu texto quando quiser. Vale citar: que tipo de projeto te interessa, se procura estágio, e o que você quer aprender nos próximos meses. -->
-Stack
+- 📫 How to reach me **pedrohenriquemreis@gmail.com**
 
-Linguagens
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://x.com/PhzMedeiros?t=oXBGAxpmXhw26aI9PKbGlw&s=09">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/phzmedeiros?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+  <a href="https://www.instagram.com/phzmedeiros?igsh=NGkyODUybDZla3Ez">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://dev.to/phzmedeiros">
+    <img src="https://skillicons.dev/icons?i=devto" />
+  </a>
+</p>
 
-Mostrar Imagem Mostrar Imagem Mostrar Imagem Mostrar Imagem Mostrar Imagem Mostrar Imagem Mostrar Imagem
-
-Ferramentas
-
-Mostrar Imagem Mostrar Imagem Mostrar Imagem Mostrar Imagem
-
-<!-- Para adicionar mais: https://simpleicons.org tem o nome exato do logo e a cor oficial de cada tecnologia. -->
-Projetos
-Projeto	O que é	Status
-[{{ nome }}]({{ link }})	{{ descrição em uma linha }}	{{ status }}
-
-
-Estatísticas
-<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username={{ SEU_USUARIO_GITHUB }}&show_icons=true&hide_border=true&theme=dark" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username={{ SEU_USUARIO_GITHUB }}&layout=compact&hide_border=true&theme=dark" /> <img src="https://streak-stats.demolab.com?user={{ SEU_USUARIO_GITHUB }}&hide_border=true&theme=dark" height="165" /> </div>
-Fora do código
-🎹 Toco piano desde os oito anos
-🎲 Sempre jogando alguma coisa, geralmente RPG
-📚 Leitor de histórias em quadrinhos
-<div align="center">
-
-<sub>Aberto a conversas sobre projetos, estudos e oportunidades.</sub>
-
-<br /><br />
-
-<img src="https://komarev.com/ghpvc/?username={{ SEU_USUARIO_GITHUB }}&style=flat-square&color=555555" /> </div>
+<br>
+<h3 align="right">Languages and Tools:</h3>
+<img align="left" alt="Coding" width="380" src="https://github.com/phzmedeiros/phzmedeiros/assets/81303691/06ac67eb-0442-46b6-8447-5522549f8ccd">
+<p align="right">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,html,css,js,arduino,git" />
+  </a>
+</p>
+<p align="right">
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,linux,figma,visualstudio,vscode,mysql,react,php" />
+  </a>
+</p>
+<br>
+<img align="right" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=phzmedeiros&theme=tokyonight" alt="phzmedeiros" />
