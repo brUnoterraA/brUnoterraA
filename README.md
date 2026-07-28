@@ -34,8 +34,8 @@
   </a>
 </p>
 <p align="right">
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,linux,figma,visualstudio,vscode,mysql,react,php" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,linux,vscode&theme=dark&perline=4" />
   </a>
 </p>
 <br>
